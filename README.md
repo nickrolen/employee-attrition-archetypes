@@ -8,6 +8,7 @@ This project analyzes employee attrition using the IBM HR Analytics dataset. It 
 - `attrition.codebook.ipynb` – Full code and analysis notebook (Jupyter)
 - `attrition.codebook.pdf` – PDF backup of code for quick viewing
 - `attrition.dashboards.pdf` – Tableau dashboards that visualize cluster findings
+- PDFs are viewable after download. GitHub may not render them inline.
 
 ##  Summary
 
